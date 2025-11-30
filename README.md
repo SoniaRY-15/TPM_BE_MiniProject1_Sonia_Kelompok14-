@@ -114,9 +114,3 @@ TPM_BE_MiniProject1_[Sonia Renata Yacintaman]_[KELAS]/
 ```
 
 ---
-
-
-
----
-
-**Happy coding and happy adopting! ❤️**
