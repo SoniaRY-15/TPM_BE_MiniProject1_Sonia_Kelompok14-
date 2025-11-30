@@ -1,0 +1,25 @@
+{
+  "name": "pet-adoption-app",
+  "version": "1.0.0",
+  "description": "A simple Pet Adoption website for API built in Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "pet",
+    "adoption",
+    "express"
+  ],
+  "author": "Sonia Renata Yacintaman",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
